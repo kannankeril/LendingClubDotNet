@@ -54,6 +54,7 @@
     <Compile Include="Responses\PortfoliosOwnedResponse.cs" />
     <Compile Include="Responses\SubmitOrdersResponse.cs" />
     <Compile Include="Responses\SummaryResponse.cs" />
+    <Compile Include="ResultObject.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

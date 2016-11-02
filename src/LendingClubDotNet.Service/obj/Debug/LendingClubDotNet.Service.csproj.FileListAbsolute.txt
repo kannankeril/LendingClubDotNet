@@ -1,0 +1,12 @@
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\obj\Debug\LendingClubDotNet.Service.csprojResolveAssemblyReference.cache
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\bin\Debug\LendingClubDotNet.Service.dll
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\bin\Debug\LendingClubDotNet.Service.pdb
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\bin\Debug\LendingClubDotNet.Client.dll
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\bin\Debug\LendingClubDotNet.Models.dll
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\bin\Debug\LendingClubDotNet.Client.pdb
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\bin\Debug\LendingClubDotNet.Models.pdb
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\obj\Debug\LendingClubDotNet.Service.dll
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\obj\Debug\LendingClubDotNet.Service.pdb
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.Service\bin\Debug\DocumentFormat.OpenXml.dll

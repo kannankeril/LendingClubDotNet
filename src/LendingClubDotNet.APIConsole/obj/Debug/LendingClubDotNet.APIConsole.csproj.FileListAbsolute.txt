@@ -10,3 +10,6 @@ C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNe
 C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.APIConsole\obj\Debug\LendingClubDotNet.APIConsole.csprojResolveAssemblyReference.cache
 C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.APIConsole\obj\Debug\LendingClubDotNet.APIConsole.exe
 C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.APIConsole\obj\Debug\LendingClubDotNet.APIConsole.pdb
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.APIConsole\bin\Debug\LendingClubDotNet.Service.dll
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.APIConsole\bin\Debug\LendingClubDotNet.Service.pdb
+C:\Users\abraham\Documents\Github\LendingClubDotNet-kannankeril\LendingClubDotNet\src\LendingClubDotNet.APIConsole\bin\Debug\DocumentFormat.OpenXml.dll

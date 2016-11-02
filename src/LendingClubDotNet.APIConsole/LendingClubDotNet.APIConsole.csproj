@@ -54,6 +54,14 @@
       <Project>{30E561AA-1169-4B3B-A133-05EDB555B503}</Project>
       <Name>LendingClubDotNet.Client</Name>
     </ProjectReference>
+    <ProjectReference Include="..\LendingClubDotNet.Models\LendingClubDotNet.Models.csproj">
+      <Project>{259fa7e3-5bbf-4e84-a6a9-d64eb7b7ed62}</Project>
+      <Name>LendingClubDotNet.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LendingClubDotNet.Service\LendingClubDotNet.Service.csproj">
+      <Project>{652b224d-d203-48cd-adfe-c4ddb4704222}</Project>
+      <Name>LendingClubDotNet.Service</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
